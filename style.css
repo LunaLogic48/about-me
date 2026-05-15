@@ -1,5 +1,5 @@
 body {
-  background-color: #0f0f0f;
+  background-color: #444;
   color: yellow;
   font-family: Arial;
   text-align: center;
@@ -8,7 +8,6 @@ body {
 
 h1 {
   font-size: 50px;
-  colour: blue;
 }
 
 p {
